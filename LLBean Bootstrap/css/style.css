@@ -31,6 +31,13 @@
 }
 }
 
+@media only screen and (max-width: 640px) {
+    .m-sm-0 {
+        margin-left: 0% !important;
+        
+    }
+    }
+
 
 
 .title{
@@ -140,7 +147,8 @@ i{
     font-family: Montserrat, regular, Arial, Helvetica, sans-serif, sans-serif;
     color: #717171;
     line-height: 10px;
-    text-align: start;
+    justify-content: flex-start!important;
+    text-align: start!important;
 
 
 }
@@ -163,4 +171,8 @@ i{
 .underline{
     text-decoration: underline;
 
+}
+
+a{
+    text-decoration: none;
 }
