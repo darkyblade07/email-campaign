@@ -64,7 +64,7 @@
     font-family: Arial;
     letter-spacing: 0px;
     text-align: center;
-    color: #3c3c3c;
+    color: rgb(60, 60, 60);
     text-decoration: none;
     font-size: 24px;
     line-height: 140%;
@@ -145,7 +145,7 @@ i{
 
 .generalInfo{
     font-family: Montserrat, regular, Arial, Helvetica, sans-serif, sans-serif;
-    color: #717171;
+    color: rgb(113, 113, 113);
     line-height: 10px;
     justify-content: flex-start!important;
     text-align: start!important;
@@ -171,8 +171,4 @@ i{
 .underline{
     text-decoration: underline;
 
-}
-
-a{
-    text-decoration: none;
 }

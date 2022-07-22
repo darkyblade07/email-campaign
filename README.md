@@ -1,3 +1,5 @@
-Hi! In here you will find several emails campaings I have built.
+Hi there! Hope you're doing great :)
 
-Hope you like ie.
+Here you will find my email campaigns examples
+
+Hope you like it.
